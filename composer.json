@@ -1,0 +1,15 @@
+{
+    "name": "Anis/twitter-bouncer",
+    "description": "Provides an easy way to filter who can follow you on Twitter without making your profile private.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anis Safine",
+            "email": "anis@safine.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "detectlanguage/detectlanguage": "*"
+    }
+}
